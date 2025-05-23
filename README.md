@@ -132,3 +132,7 @@ req -> put http://localhost:5000/api/v1/bookstore/books/68304116877dcda049916f9b
 req -> delete http://localhost:5000/api/v1/bookstore/books/68304116877dcda049916f9b/review/6830434a877dcda049916fb8
 
 ![alt text](postman_api_img/deletereview.png)
+
+## ER diagram
+
+![alt text](postman_api_img/ER.png)
