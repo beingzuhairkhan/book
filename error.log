@@ -1,0 +1,35 @@
+{"level":"error","message":"\"username\" length must be at least 3 characters long","service":"bookstore-api","timestamp":"2025-05-23T05:42:34.752Z"}
+{"level":"error","message":"User already exists","service":"bookstore-api","timestamp":"2025-05-23T05:42:44.844Z"}
+{"level":"error","message":"\"username\" is required","service":"bookstore-api","timestamp":"2025-05-23T05:43:53.223Z"}
+{"level":"error","message":"\"username\" is required","service":"bookstore-api","timestamp":"2025-05-23T05:44:59.069Z"}
+{"level":"error","message":"Login failed: argon2 is not defined","service":"bookstore-api","timestamp":"2025-05-23T05:45:31.703Z"}
+{"level":"error","message":"Invalid credentials","service":"bookstore-api","timestamp":"2025-05-23T05:46:28.460Z"}
+{"level":"error","message":"Invalid credentials","service":"bookstore-api","timestamp":"2025-05-23T05:47:37.393Z"}
+{"level":"error","message":"Invalid credentials","service":"bookstore-api","timestamp":"2025-05-23T05:48:14.617Z"}
+{"level":"error","message":"Invalid credentials","service":"bookstore-api","timestamp":"2025-05-23T05:49:17.165Z"}
+{"level":"error","message":"JWT verification failed: jwt is not defined","service":"bookstore-api","timestamp":"2025-05-23T06:09:48.960Z"}
+{"level":"error","message":"JWT verification failed: next is not defined","service":"bookstore-api","timestamp":"2025-05-23T06:10:10.558Z"}
+{"level":"error","message":"Failed to create books: Cannot read properties of undefined (reading 'map')","service":"bookstore-api","timestamp":"2025-05-23T06:11:00.861Z"}
+{"level":"error","message":"Failed to create books: Book validation failed: createdBy: Path `createdBy` is required., genre: Path `genre` is required., author: Path `author` is required., title: Path `title` is required.","service":"bookstore-api","timestamp":"2025-05-23T06:11:27.549Z"}
+{"level":"error","message":"\"user\" is required","service":"bookstore-api","timestamp":"2025-05-23T06:17:10.694Z"}
+{"level":"error","message":"\"user\" is required","service":"bookstore-api","timestamp":"2025-05-23T06:18:03.453Z"}
+{"level":"error","message":"\"user\" is required","service":"bookstore-api","timestamp":"2025-05-23T06:18:45.472Z"}
+{"level":"error","message":"No token provided","service":"bookstore-api","timestamp":"2025-05-23T06:20:25.701Z"}
+{"level":"error","message":"Failed to get book by ID: mongoose is not defined","service":"bookstore-api","timestamp":"2025-05-23T06:26:22.692Z"}
+{"level":"error","message":"\"book\" is required","service":"bookstore-api","timestamp":"2025-05-23T06:30:38.987Z"}
+{"level":"error","message":"\"reviewer\" is required","service":"bookstore-api","timestamp":"2025-05-23T06:31:18.107Z"}
+{"level":"error","message":"Failed to submit review: Cast to ObjectId failed for value \"{ _id: undefined }\" (type Object) at path \"_id\" for model \"Book\"","service":"bookstore-api","timestamp":"2025-05-23T06:33:47.168Z"}
+{"level":"error","message":"Failed to submit review: Cast to ObjectId failed for value \"{ _id: undefined }\" (type Object) at path \"_id\" for model \"Book\"","service":"bookstore-api","timestamp":"2025-05-23T06:34:26.988Z"}
+{"level":"error","message":"Failed to submit review: Cast to ObjectId failed for value \"{ _id: undefined }\" (type Object) at path \"_id\" for model \"Book\"","service":"bookstore-api","timestamp":"2025-05-23T06:35:15.388Z"}
+{"level":"error","message":"Failed to submit review: bookId is not defined","service":"bookstore-api","timestamp":"2025-05-23T06:35:38.255Z"}
+{"level":"error","message":"Failed to submit review: bookId is not defined","service":"bookstore-api","timestamp":"2025-05-23T06:35:52.404Z"}
+{"level":"error","message":"Failed to submit review: Review validation failed: reviewer: Path `reviewer` is required.","service":"bookstore-api","timestamp":"2025-05-23T06:36:15.549Z"}
+{"level":"error","message":"Failed to submit review: Review validation failed: reviewer: Path `reviewer` is required.","service":"bookstore-api","timestamp":"2025-05-23T06:37:09.264Z"}
+{"level":"error","message":"Failed to submit review: Review validation failed: reviewer: Path `reviewer` is required.","service":"bookstore-api","timestamp":"2025-05-23T06:38:09.286Z"}
+{"level":"error","message":"Failed to get book by ID: Cannot populate path `user` because it is not in your schema. Set the `strictPopulate` option to false to override.","service":"bookstore-api","timestamp":"2025-05-23T06:41:50.348Z"}
+{"level":"error","message":"Failed to get book by ID: Cannot populate path `user` because it is not in your schema. Set the `strictPopulate` option to false to override.","service":"bookstore-api","timestamp":"2025-05-23T06:42:41.512Z"}
+{"level":"error","message":"Failed to get book by ID: Cannot populate path `reviewer` because it is not in your schema. Set the `strictPopulate` option to false to override.","service":"bookstore-api","timestamp":"2025-05-23T06:44:05.985Z"}
+{"level":"error","message":"Failed to get book by ID: Cannot populate path `user` because it is not in your schema. Set the `strictPopulate` option to false to override.","service":"bookstore-api","timestamp":"2025-05-23T06:44:56.449Z"}
+{"level":"error","message":"Failed to get book by ID: Cannot populate path `user` because it is not in your schema. Set the `strictPopulate` option to false to override.","service":"bookstore-api","timestamp":"2025-05-23T06:45:32.798Z"}
+{"level":"error","message":"JWT verification failed: jwt expired","service":"bookstore-api","timestamp":"2025-05-23T09:02:51.194Z"}
+{"level":"error","message":"JWT verification failed: jwt expired","service":"bookstore-api","timestamp":"2025-05-23T09:04:38.213Z"}
