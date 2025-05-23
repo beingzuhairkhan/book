@@ -27,15 +27,15 @@ A RESTful API built with Node.js, Express, and MongoDB for managing books, users
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/bookstore-api.git
-   cd bookstore-api
+   git clone https://github.com/beingzuhairkhan/book.git
+   cd book
 ````
 
 2. **Install dependencies**
 
-   ```bash
+   
    npm install
-   ```
+   
 
 3. **Create `.env` file in the root**
 
