@@ -1,11 +1,11 @@
-import express from 'express';
 import dotenv from 'dotenv';
+dotenv.config();
+import express from 'express';
 import connectDB from './db.js'
 import logger from './utils/logger.js'
 import userRoutes from './routes/user.route.js'
 import bookRoutes from './routes/book.route.js'
 import helmet from 'helmet'
-dotenv.config();
 
 
 const app = express();

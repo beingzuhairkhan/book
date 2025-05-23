@@ -463,3 +463,9 @@
 {"level":"warn","message":"Invalid book ID format.","service":"bookstore-api","timestamp":"2025-05-23T09:52:17.440Z"}
 {"level":"info","message":"JWT verification endpoint hit...","service":"bookstore-api","timestamp":"2025-05-23T09:53:57.721Z"}
 {"level":"info","message":"Get book by ID endpoint hit...","service":"bookstore-api","timestamp":"2025-05-23T09:53:57.733Z"}
+{"level":"info","message":"Server is running on port 5000","service":"bookstore-api","timestamp":"2025-05-23T10:36:00.834Z"}
+{"level":"info","message":"MongoDB Connected: ac-yh0x1pa-shard-00-02.ljtetty.mongodb.net","service":"bookstore-api","timestamp":"2025-05-23T10:36:01.109Z"}
+{"level":"info","message":"Server is running on port 5000","service":"bookstore-api","timestamp":"2025-05-23T10:39:04.534Z"}
+{"level":"info","message":"MongoDB Connected: ac-yh0x1pa-shard-00-00.ljtetty.mongodb.net","service":"bookstore-api","timestamp":"2025-05-23T10:39:04.903Z"}
+{"level":"info","message":"Server is running on port 5000","service":"bookstore-api","timestamp":"2025-05-23T10:39:09.021Z"}
+{"level":"info","message":"MongoDB Connected: ac-yh0x1pa-shard-00-01.ljtetty.mongodb.net","service":"bookstore-api","timestamp":"2025-05-23T10:39:09.396Z"}
